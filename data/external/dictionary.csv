@@ -1,0 +1,18 @@
+variavel,descricao,tipo,subtipo
+Age,idade do indivíduo,quantitativa,contínua
+Gender,gênero do indivíduo,qualitativa,nominal
+Height,altura do indiíduo,quantitativa,contínua
+Weight,peso do indivíduo,quantitativa,contínua
+CALC,frequência do consumo de álcool pelo indivíduo,qualitativa,ordinal
+FAVC,indica se o indivíduo consome comidas altamentes calóricas com frequência,qualitativa,nominal
+FCVC,indica o nível de consumo de vegetais nas refeições do indivíduo,quantitativa,discreta
+NCP,quantas refeições principais o indivíduo faz diariamente,quantitativa,contínua
+SCC,indica se o indivíduo monitora as calorias ingeridas diariamente,qualitativa,nominal
+SMOKE,indica se o indivíduo fuma ou não,qualitativa,nominal
+CH2O,quanta água o indivíduo consome diariamente,quantitativa,contínua
+family_history_with_overweight,indica se algum membro da família do indivídio sofreu ou sofre com excesso de peso,qualitativa,nominal
+FAF,quão frequentemente o indivíduo pratica atividades físicas,quantitativa,contínua
+TUE,quanto tempo o indivíduo passa usando dispositivos tecnológicos,quantitativa,contínua
+CAEC,frequência em que o indivíduo come algum alimento entre as refeições,qualitativa,ordinal
+MTRANS,tipo de transporte que o indivíduo costuma usar,qualitativa,nominal
+NObeyesdad,nível de obesidade do indivíduo,qualitativa,ordinal
