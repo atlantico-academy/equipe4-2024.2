@@ -1,8 +1,8 @@
 <div align="center">
   
-  `Alchemists`
   
-  <img src="https://github.com/user-attachments/assets/a7f74e09-9162-455e-8894-a9ec267155c6" width="300">
+  
+  <img src="https://github.com/user-attachments/assets/43828b9c-10b8-4e90-8fd9-d401e1ea8afe" width="300">
 </div>
 <hr>
 
