@@ -12,7 +12,7 @@
 
 ![GitHub](https://img.shields.io/github/license/atlantico-academy/equipe1-2024.1.svg) [![PyPI](https://img.shields.io/pypi/v/atlantico-academy-equipe1-2024.1.svg)](http://pypi.org/project/atlantico-academy-equipe1-2024.1/) 
 
-**[Documentação](./docs/index.md)** | **[Dados](./docs/data.md)** | **[Execução](./docs/code.md)** | **[Insights](./docs/insight.md)**
+**[Documentação](./docs/index.md)** | **[Dados](https://github.com/atlantico-academy/equipe4-2024.2/blob/master/data/external/dictionary.csv)** | **[Execução](./docs/code.md)** | **[Insights](./docs/insight.md)**
 
 ## Contexto
 
