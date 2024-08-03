@@ -1,89 +1,37 @@
-# <Título do projeto>
+<div align="center">
+  
+  `Alchemists`
+  
+  <img src="https://github.com/user-attachments/assets/a7f74e09-9162-455e-8894-a9ec267155c6" width="300">
+</div>
+<hr>
 
-Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
+# Análise dos Níveis de Obesidade
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+![GitHub](https://img.shields.io/github/license/atlantico-academy/equipe1-2024.1.svg) [![PyPI](https://img.shields.io/pypi/v/atlantico-academy-equipe1-2024.1.svg)](http://pypi.org/project/atlantico-academy-equipe1-2024.1/) 
+
+**[Documentação](./docs/index.md)** | **[Dados](./docs/data.md)** | **[Execução](./docs/code.md)** | **[Insights](./docs/insight.md)**
+
+## Contexto
+
+A obesidade, distúrbio que envolve excesso de gordura corporal, é reconhecida como um problema de saúde pública pela OMS, sendo uma condição médica complexa e um dos principais desafios do século XXI. Ela está associada a várias doenças crônicas, como diabetes tipo 2, doenças cardíacas e hipertensão, além de impacto significativo na qualidade de vida. Estamos realizando essa análise para avaliar o conjunto de fatores que desencadeiam essa condição. 
+
+## Justificativa
+
+Com o aumento contínuo das taxas de obesidade em diversos países, faz-se necessário entender os fatores que contribuem para essa condição e assim desenvolver estratégias eficazes de prevenção e tratamento. 
+
+## Resumo Gráfico
+
+![image](https://github.com/user-attachments/assets/13e8f6f8-6b29-4cea-8458-73dbb4780d94)
+
 
 ## Desenvolvedores
- - [Nome do desenvolvedor #1](url-do-github-do-desenvolvedor-#1)
- - [Nome do desenvolvedor #2](url-do-github-do-desenvolvedor-#2)
- - [Nome do desenvolvedor #3](url-do-github-do-desenvolvedor-#3)
- - [Nome do desenvolvedor #4](url-do-github-do-desenvolvedor-#4)
- - ...
 
----
-
-> **Nota**: todo o texto abaixo é somente para entendimento do usuário do template. Por favor remova-o quando for atualizar este `README.md`.
-
-## Funcionalidades
-
-Esse template foi inicialmente baseado no [template de ciência de dados do cookiecutter](https://drivendata.github.io/cookiecutter-data-science/), mas ao longo do tempo várias modificações foram sendo realizadas. Atualmente o template tem as seguintes características:
- - Utilização do arquivo `pyproject.toml` como centralizador de dependências;
- - Configuração para criação de aplicação `streamlit`;
- - Utilização de [jupyter notebooks](https://jupyter.org/) para arquivos de análise;
- - Documentação com o [mkdocs](https://www.mkdocs.org/) ([material design](https://squidfunk.github.io/mkdocs-material/) theme)
-
-## Instruções
-
-### Requisitos
-
-Para utilizar este template, você precisará de um ambiente com os seguintes softwares:
- - git
- - Python 3.8
- - Poetry `1.1.13` ou superior
-
-É aconselhável o uso do `pyenv` para o gerenciamento de versões do Python.
-
-### Iniciando um novo projeto
-
-Para iniciar um novo projeto você precisa ter instalado na sua máquina as aplicações citadas na seção anterior, depois disso basta:
-
-1. clicar no botão **Use this template** (ou "Usar este modelo").
-2. Digitar um nome para seu repositório e uma descrição opcional.
-3. Escolher a visibilidade do projeto (Publica ou privada).
-4. Clicar em **Create repository from template** (Criar repositório a partir do modelo).
-
-Pronto, acaba de criar um repositório a partir deste modelo. Para mais informações sobre o uso de templates, acesse a [documentação oficial](https://docs.github.com/pt/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
-
-
-### Contribuindo com um repositório já criado
-
-Depois de criar o repositório, para começar a modificá-lo e/ou contribuir com repositórios já criados,  você precisa cloná-lo. Para isso, siga os seguintes passos:
-
-1. Acima da lista de arquivos, clique no botão **Code** (em verde).
-2. Copie a URL para o repositório.
-    - Tente clonar utilizando uma chave **SSH**. Para isso, clique na aba **SSH** e em seguida clique no ícone de cópia.
-3. Abra o terminal.
-4. Altere o diretório de trabalho atual para o local que deseja ter o diretório clonado.
-5. Digite `git clone` e cole a URL que você copiou anteriormente:
-
-```
-git clone git@github.com:NOME-DE-USUARIO/REPOSITORIO.git
-```
-6. Pressione **Enter** para criar seu clone local.
-
-Proto, com isso você acaba de clonar um repositório. Para mais informações sobre a clonagem de arquivos, acesse a [documentação oficial](https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository).
-
-Com o repositório clonado, você precisa navegar até a pasta local, usando o comando :
-
-```
-cd REPOSITORIO
-```
-
-Estando na pasta do repositório, basta instalar as dependências do projeto utilizando o comando:
-
-```
-poetry install
-```
-
-Ele irá instalar todas as dependências contidas no arquivo `pyproject.toml`. Depois disso basta ativar o ambiente virtual criado pelo Poetry utilizando o comando:
-
-```
-poetry shell
-```
-
-Para mais informações sobre os comandos do Poetry, visite a [documentação oficial](https://python-poetry.org/docs/).
-
-Para contribuir com um projeto, tente utilizar uma metodologia adequada. Utilize [este artigo](https://omadson.github.io/site/blog/2022/software-development-workflow/) para obter mais informações.
-
+[<img src="https://github.com/user-attachments/assets/640817fc-abb8-4c51-b26a-635485cb495d"  width="150" height="150">](https://github.com/dutradaphne) | [<img src="https://github.com/user-attachments/assets/f077c8d7-a41e-48e1-947a-0a0819428ca7" width="150" height="150">](https://github.com/IsabelleDays) | [<img src="https://github.com/user-attachments/assets/c54be732-877d-46c6-8448-217262ca27bb"  width="150" height="150">](https://github.com/PedroJoas) | [<img src="https://github.com/user-attachments/assets/83915461-dafb-493d-9ffd-d4a834eabb4f"  width="150" height="150">](https://github.com/simires) | [<img src="https://github.com/user-attachments/assets/8d25120f-c0fb-4928-8eed-eca9bcccf8ea"  width="150" height="150">](https://github.com/vincenzofadda) | [<img src="https://github.com/user-attachments/assets/17c9375d-b31a-4063-a5f1-6abf2960030b"  width="150" height="150">](https://github.com/mevivi) 
+--- | --- | --- | --- | --- | --- 
+[Daffny Dutra](https://github.com/dutradaphne) | [Isabelle Dias](https://github.com/IsabelleDays) |  [Pedro Joás](https://github.com/PedroJoas) | [Simires de Souza](https://github.com/simires) | [Vicenzzo Fadda](https://github.com/vincenzofadda) | [Vitoria Rosa](https://github.com/mevivi) 
 
 ### Organização de diretórios
 
