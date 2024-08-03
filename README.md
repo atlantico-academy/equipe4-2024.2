@@ -24,7 +24,8 @@ Com o aumento contínuo das taxas de obesidade em diversos países, faz-se neces
 
 ## Resumo Gráfico
 
-![image](https://github.com/user-attachments/assets/13e8f6f8-6b29-4cea-8458-73dbb4780d94)
+![image](https://github.com/user-attachments/assets/e85a2aa7-74d8-46b8-abdd-a9e0e3144eee)
+
 
 
 ## Desenvolvedores
